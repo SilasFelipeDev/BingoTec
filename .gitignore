@@ -1,0 +1,10 @@
+# Executáveis Gerados Pela Compilação 
+/*.exe
+
+# Arquivos Objeto
+*.o
+*.obj
+
+# Diretório de build
+build/*
+!build/.gitkeep
